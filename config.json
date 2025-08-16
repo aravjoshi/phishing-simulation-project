@@ -1,0 +1,18 @@
+{
+  "smtp": {
+    "interface": "SMTP",
+    "server": "sandbox.smtp.mailtrap.io",
+    "port": 587,
+    "username": "YOUR_MAILTRAP_USERNAME",
+    "password": "YOUR_MAILTRAP_PASSWORD",
+    "from_address": "security-team@company.com"
+  },
+  "tracking": {
+    "pixel_url": "http://your-server.com/track.php?id={{.RID}}"
+  },
+  "landing_page_url": "http://your-server.com/landing-pages/index.html",
+  "gophish": {
+    "api_url": "http://localhost:3333/api",
+    "api_key": "YOUR_GOPHISH_API_KEY"
+  }
+}
