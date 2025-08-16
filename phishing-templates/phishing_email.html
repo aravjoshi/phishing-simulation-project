@@ -1,1 +1,23 @@
+<html>
+  <body>
+    <p>Hello {{.FirstName}},</p>
+
+    <p>We noticed unusual activity on your account. Please verify your details immediately to avoid suspension.</p>
+
+    <p>
+      <a href="{{.URL}}" style="color:blue;text-decoration:underline;">
+        Verify My Account
+      </a>
+    </p>
+
+    <!-- Tracking Pixel -->
+    <img src="http://your-server.com/track.php?id={{.RID}}" width="1" height="1" style="display:none;">
+
+    <p>Thank you,<br>Security Team</p>
+
+    <p style="font-size:10px; color:gray;">
+      This is a phishing simulation for educational purposes only.
+    </p>
+  </body>
+</html>
 
