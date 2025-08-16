@@ -1,0 +1,47 @@
+[
+  {
+    "email": "rahul.sharma@example.com",
+    "status": "Email Sent",
+    "time": "2025-08-10T09:15:23Z"
+  },
+  {
+    "email": "rahul.sharma@example.com",
+    "status": "Email Opened",
+    "time": "2025-08-10T09:20:54Z"
+  },
+  {
+    "email": "rahul.sharma@example.com",
+    "status": "Clicked Link",
+    "time": "2025-08-10T09:21:13Z"
+  },
+  {
+    "email": "rahul.sharma@example.com",
+    "status": "Submitted Data",
+    "time": "2025-08-10T09:22:05Z"
+  },
+  {
+    "email": "neha.verma@example.com",
+    "status": "Email Sent",
+    "time": "2025-08-10T09:18:42Z"
+  },
+  {
+    "email": "neha.verma@example.com",
+    "status": "Email Opened",
+    "time": "2025-08-10T09:25:16Z"
+  },
+  {
+    "email": "neha.verma@example.com",
+    "status": "Clicked Link",
+    "time": "2025-08-10T09:25:59Z"
+  },
+  {
+    "email": "vijay.kumar@example.com",
+    "status": "Email Sent",
+    "time": "2025-08-10T09:30:11Z"
+  },
+  {
+    "email": "vijay.kumar@example.com",
+    "status": "Email Opened",
+    "time": "2025-08-10T09:36:40Z"
+  }
+]
